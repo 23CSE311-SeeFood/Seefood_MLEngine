@@ -1,0 +1,6 @@
+$schema: https://azuremlschemas.azureedge.net/latest/managedOnlineEndpoint.schema.json
+name: seefood-pred-endpoint
+auth_mode: key
+tags:
+  project: seefood
+  service: prediction

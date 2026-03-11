@@ -1,0 +1,66 @@
+{
+  "next7Days": [
+    {
+      "day": "Mon",
+      "predicted": 26000,
+      "trend": "up"
+    },
+    {
+      "day": "Tue",
+      "predicted": 28500,
+      "trend": "up"
+    },
+    {
+      "day": "Wed",
+      "predicted": 27200,
+      "trend": "stable"
+    },
+    {
+      "day": "Thu",
+      "predicted": 30100,
+      "trend": "up"
+    },
+    {
+      "day": "Fri",
+      "predicted": 33400,
+      "trend": "up"
+    },
+    {
+      "day": "Sat",
+      "predicted": 36200,
+      "trend": "up"
+    },
+    {
+      "day": "Sun",
+      "predicted": 32800,
+      "trend": "up"
+    }
+  ],
+  "categoryPrediction": [
+    {
+      "category": "Breakfast",
+      "predicted": 5200,
+      "current": 4800
+    },
+    {
+      "category": "Lunch",
+      "predicted": 18900,
+      "current": 17500
+    },
+    {
+      "category": "Snacks",
+      "predicted": 8600,
+      "current": 7900
+    },
+    {
+      "category": "Dinner",
+      "predicted": 14200,
+      "current": 13100
+    },
+    {
+      "category": "Beverages",
+      "predicted": 4100,
+      "current": 3700
+    }
+  ]
+}
